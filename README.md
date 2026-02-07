@@ -101,7 +101,6 @@ The objective is to identify operational bottlenecks and generate **actionable b
 
 ## 🎯 Conclusion
 This project demonstrates strong SQL querying skills, analytical reasoning, and the ability to translate complex datasets into meaningful business insights.  
-It is well-suited for **Data Analyst roles, SQL-driven analytics assignments, and freelance data projects**.
 
 ---
 
